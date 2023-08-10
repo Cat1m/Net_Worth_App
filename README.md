@@ -1,6 +1,9 @@
 # net_worth_application
 
-A new Flutter project.
+nó chỉ đơn giản là tính tiền thôi :)))
+nhập tiền hiện có
+nhập nợ hiện có
+=> tính tiền còn available
 
 ## Getting Started
 
